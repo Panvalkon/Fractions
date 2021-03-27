@@ -1,2 +1,2 @@
 # Fractions
-It can perform simple operations whith whole number fracions in nomenator and denominator.
+It can perform simple operations with fractions with whole number in nominator and denominator.
